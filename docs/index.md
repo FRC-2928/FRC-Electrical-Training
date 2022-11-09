@@ -15,3 +15,11 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+
+[PDP](PDP/PDP.md)
+[RoboRio](RoboRio/RoboRio.md)
+[Sensors](Sensors/Sensors.md)
+[Motors](Motors/Motors.md)
+[Test](Test/Test.md)
+[Pneumatics](Pneumatics/Pneumatics.md)

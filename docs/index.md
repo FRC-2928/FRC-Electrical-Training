@@ -21,5 +21,4 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 [RoboRio](RoboRio/RoboRio.md)
 [Sensors](Sensors/Sensors.md)
 [Motors](Motors/Motors.md)
-[Test](Test/Test.md)
 [Pneumatics](Pneumatics/Pneumatics.md)

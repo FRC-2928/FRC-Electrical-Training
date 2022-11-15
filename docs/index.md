@@ -17,8 +17,9 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
         ...       # Other markdown pages, images and other files.
 
 
-[PDP](PDP/PDP.md)
+[Power Distribution Panel](PDP/PDP.md)
 [RoboRio](RoboRio/RoboRio.md)
-[Sensors](Sensors/Sensors.md)
+[Sensors and Cameras](Sensors/Sensors.md)
 [Motors](Motors/Motors.md)
 [Pneumatics](Pneumatics/Pneumatics.md)
+[Battery](Battery/Battery.md)

@@ -19,9 +19,11 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 [Power Distribution Panel](PDP/PDP.md)
 [RoboRio](RoboRio/RoboRio.md)
-[Sensors and Cameras](Sensors/Sensors.md)
+[Sensors](Sensors/Sensors.md)
 [Motors](Motors/Motors.md)
 [Pneumatics](Pneumatics/Pneumatics.md)
 [Battery](Battery/Battery.md)
+[Cameras](Cameras/Cameras.md)
+[Test1](Test2/Test3.md)
 
-##Testing Updates
+## Test4

@@ -6,9 +6,3 @@ Details here.
 
 #Color Sensor
 Details here
-
-#Limelight
-details here
-
-#Camera
-details here

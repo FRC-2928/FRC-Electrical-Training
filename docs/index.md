@@ -16,5 +16,10 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
 
-
+[Batteries](Battery/Batteries.md)
+[Cameras](Cameras/Cameras.md)
 [Motors](Motors/Motors.md)
+[PDP](PDP/PDP.md)
+[Pnuematics](Pneumatics/Pneumatics.md)
+[RoboRio](RoboRio/RoboRio.md)
+[Sensors](Sensors/Sensors.md)

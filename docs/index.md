@@ -16,12 +16,19 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
 
-[Batteries](Battery/Batteries.md)
-[Cameras](Cameras/Cameras.md)
-[Canbus](Canbus/Canbus.md)
-[Motors](Motors/Motors.md)
-[Pnuematics](Pneumatics/Pneumatics.md)
-[Wire](Power/Wire.md)
-[Power Distribution Panel](Power/Power.md)
-[RoboRio](RoboRio/RoboRio.md)
-[Sensors](Sensors/Sensors.md)
+######Shortcuts:
+- [Batteries](Battery/Batteries.md)
+- [Cameras](Cameras/Cameras.md)
+- [Canbus](Canbus/Canbus.md)
+- [Motors](Motors/Motors.md)
+- [Pnuematics](Pneumatics/Pneumatics.md)
+- [Wire](Power/Wire.md)
+- [Power Distribution Panel](Power/Power.md)
+- [RoboRio](RoboRio/RoboRio.md)
+- [Sensors](Sensors/Sensors.md)
+
+######Sources:
+- https://store.ctr-electronics.com/
+- https://www.vexrobotics.com/pro/motors-electronics/?q=
+- https://www.revrobotics.com/frc/electronics/
+- https://www.andymark.com/pages/electrical

@@ -18,8 +18,10 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 [Batteries](Battery/Batteries.md)
 [Cameras](Cameras/Cameras.md)
+[Canbus](Canbus/Canbus.md)
 [Motors](Motors/Motors.md)
-[PDP](PDP/PDP.md)
 [Pnuematics](Pneumatics/Pneumatics.md)
+[Wire](Power/Wire.md)
+[Power Distribution Panel](Power/Power.md)
 [RoboRio](RoboRio/RoboRio.md)
 [Sensors](Sensors/Sensors.md)
